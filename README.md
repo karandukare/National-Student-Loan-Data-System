@@ -65,4 +65,4 @@ Connect with Me If you'd like to collaborate, discuss data analytics, or explore
 - LinkedIn: https://www.linkedin.com/in/karandukare/
 - GitHub: https://github.com/karandukare
 - Email: karandukare23@gamil.com
-- Portfolio: [your portfolio link-optional]
+- Portfolio: https://karan-dukare-data-analys-yz7rj1t.gamma.site/ 
